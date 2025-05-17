@@ -45,6 +45,10 @@ Or just open an Issue if you want me to add it for you 😊
 | **Lapa Ninja** | Landing Pages | [lapa.ninja](https://www.lapa.ninja/) |
 | **Awwwards** | Website Awards | [awwwards.com](https://www.awwwards.com/) |
 | **Codrops** | Design Tutorials | [tympanus.net/codrops](https://tympanus.net/codrops/) |
+| **LandingLove** | Landing Pages | [landing.love](https://www.landing.love/) |
+| **Land-Book** | Landing Pages | [land-book.com](https://land-book.com/) |
+| **Portfolios** | Porrtfolio Pages | [webflow.com](https://webflow.com/made-in-webflow/portfolio/popular) |
+
 
 ---
 
